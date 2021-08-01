@@ -113,14 +113,22 @@ Send
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
   with the recommendation that implementations retroactively apply it to C++20.
 
-## Poll 3: [[P0533R8]] `constexpr` For `<cmath>` And `<cstdlib>` ## {#poll-3}
+## Poll 3: [[P1206R4]] `ranges::to` ## {#poll-3}
+
+Modify
+  [[P1206R4]] (`ranges::to`)
+  by renaming `push_front_range` to `prepend_range` and `push_back_range` to `append_range`,
+  and then send the revised paper to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 4: [[P0533R8]] `constexpr` For `<cmath>` And `<cstdlib>` ## {#poll-5}
 
 Send
   [[P0533R8]] (`constexpr` For `<cmath>` And `<cstdlib>`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 4: [[P2273R2]] Making `unique_ptr` `constexpr` ## {#poll-4}
+## Poll 5: [[P2273R2]] Making `unique_ptr` `constexpr` ## {#poll-5}
 
 Send
   [[P2273R2]] (Making `unique_ptr` `constexpr`)
