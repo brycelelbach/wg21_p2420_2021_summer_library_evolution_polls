@@ -117,7 +117,7 @@ Send
 
 Modify
   [[P1206R4]] (`ranges::to`)
-  by renaming `push_front_range` to `prepend_range` and `push_back_range` to `append_range`,
+  by adding `prepend_range` and `append_range` to sequential containers,
   and then send the revised paper to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
