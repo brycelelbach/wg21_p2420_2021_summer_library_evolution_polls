@@ -115,10 +115,9 @@ Send
 
 ## Poll 3: [[P1206R4]] `ranges::to` ## {#poll-3}
 
-Modify
-  [[P1206R4]] (`ranges::to`)
-  by adding `prepend_range` and `append_range` to sequential containers,
-  and then send the revised paper to Library Working Group for C++23,
+Send
+  [[P1206R6]] (`ranges::to`)
+  to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
 ## Poll 4: [[P0533R8]] `constexpr` For `<cmath>` And `<cstdlib>` ## {#poll-5}
@@ -135,3 +134,17 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
+<pre class=biblio>
+{
+  "P1206R6": {
+    "authors": [
+      "Corentin Jabot",
+      "Eric Niebler",
+      "Casey Carter"
+    ],
+    "href": "https://isocpp.org/files/papers/P1206R6.pdf",
+    "title": "<code>ranges::to</code>",
+    "date": "2021-08-04"
+  }
+}
+</pre>
