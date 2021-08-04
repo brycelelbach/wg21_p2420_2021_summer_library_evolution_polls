@@ -120,7 +120,7 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 4: [[P0533R8]] `constexpr` For `<cmath>` And `<cstdlib>` ## {#poll-5}
+## Poll 4: [[P0533R8]] `constexpr` For `<cmath>` And `<cstdlib>` ## {#poll-4}
 
 Send
   [[P0533R8]] (`constexpr` For `<cmath>` And `<cstdlib>`)
