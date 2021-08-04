@@ -113,7 +113,7 @@ Send
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
   with the recommendation that implementations retroactively apply it to C++20.
 
-## Poll 3: [[P1206R4]] `ranges::to` ## {#poll-3}
+## Poll 3: [[P1206R6]] `ranges::to` ## {#poll-3}
 
 Send
   [[P1206R6]] (`ranges::to`)
@@ -143,7 +143,7 @@ Send
       "Casey Carter"
     ],
     "href": "https://isocpp.org/files/papers/P1206R6.pdf",
-    "title": "<code>ranges::to</code>",
+    "title": "`ranges::to`",
     "date": "2021-08-04"
   }
 }
